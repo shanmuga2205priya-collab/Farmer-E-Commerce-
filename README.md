@@ -1,4 +1,8 @@
 # 🌱 Direct Farm-to-Consumer E-Commerce & Market Access Platform
+## 🌐 Live Website
+
+Click here to visit Farmer E-Commerce Website
+https://farmer-e-commerce-ten.vercel.app/login
 
 A full-stack agricultural e-commerce platform that connects local farmers directly with consumers, eliminating traditional middlemen to deliver harvest-fresh produce within a guaranteed 24–48 hour window.
 
